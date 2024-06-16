@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<Vehicle menyoo_ver="1.5.0">
+<Vehicle menyoo_ver="1.8.1">
 	<ModelHash>0xc4810400</ModelHash>
-	<InitialHandle>643152</InitialHandle>
+	<InitialHandle>444684</InitialHandle>
 	<VehicleProperties>
 		<Colours>
-			<Primary>0</Primary>
-			<Secondary>0</Secondary>
-			<Pearl>0</Pearl>
+			<Primary>143</Primary>
+			<Secondary>143</Secondary>
+			<Pearl>31</Pearl>
 			<Rim>0</Rim>
 			<Mod1_a>6</Mod1_a>
 			<Mod1_b>-1</Mod1_b>
@@ -18,8 +18,8 @@
 			<tyreSmoke_R>255</tyreSmoke_R>
 			<tyreSmoke_G>255</tyreSmoke_G>
 			<tyreSmoke_B>255</tyreSmoke_B>
-			<LrInterior>1</LrInterior>
-			<LrDashboard>0</LrDashboard>
+			<LrInterior>34</LrInterior>
+			<LrDashboard>34</LrDashboard>
 			<LrXenonHeadlights>0</LrXenonHeadlights>
 		</Colours>
 		<Livery>-1</Livery>
@@ -30,12 +30,12 @@
 		<EngineSoundName></EngineSoundName>
 		<WindowTint>4</WindowTint>
 		<BulletProofTyres>true</BulletProofTyres>
-		<DirtLevel>0.0335016288</DirtLevel>
+		<DirtLevel>0.148364067</DirtLevel>
 		<PaintFade>0.298039228</PaintFade>
-		<RoofState>0</RoofState>
+		<RoofState>1</RoofState>
 		<SirenActive>false</SirenActive>
 		<EngineOn>true</EngineOn>
-		<EngineHealth>1250</EngineHealth>
+		<EngineHealth>1000</EngineHealth>
 		<LightsOn>false</LightsOn>
 		<IsRadioLoud>0</IsRadioLoud>
 		<LockStatus>1</LockStatus>
@@ -52,12 +52,12 @@
 		<Mods>
 			<_0>3,0</_0>
 			<_1>4,0</_1>
-			<_2>2,0</_2>
+			<_2>4,0</_2>
 			<_3>-1,0</_3>
-			<_4>2,0</_4>
+			<_4>3,0</_4>
 			<_5>-1,0</_5>
 			<_6>-1,0</_6>
-			<_7>0,0</_7>
+			<_7>-1,0</_7>
 			<_8>-1,0</_8>
 			<_9>-1,0</_9>
 			<_10>-1,0</_10>
@@ -65,14 +65,14 @@
 			<_12>2,0</_12>
 			<_13>2,0</_13>
 			<_14>-1,0</_14>
-			<_15>-1,0</_15>
-			<_16>-1,0</_16>
+			<_15>4,0</_15>
+			<_16>4,0</_16>
 			<_17>false</_17>
-			<_18>false</_18>
+			<_18>true</_18>
 			<_19>false</_19>
 			<_20>false</_20>
 			<_21>false</_21>
-			<_22>false</_22>
+			<_22>true</_22>
 			<_23>43,0</_23>
 			<_24>-1,0</_24>
 			<_25>-1,0</_25>
@@ -98,7 +98,7 @@
 			<_45>-1,0</_45>
 			<_46>-1,0</_46>
 			<_47>-1,0</_47>
-			<_48>6,0</_48>
+			<_48>-1,0</_48>
 		</Mods>
 		<DoorsOpen>
 			<BackLeftDoor>false</BackLeftDoor>
@@ -131,6 +131,7 @@
 		</TyresBursted>
 		<RpmMultiplier>1</RpmMultiplier>
 		<TorqueMultiplier>1</TorqueMultiplier>
+		<MaxSpeed>82.764534</MaxSpeed>
 		<HeadlightIntensity>1</HeadlightIntensity>
 	</VehicleProperties>
 	<OpacityLevel>255</OpacityLevel>
