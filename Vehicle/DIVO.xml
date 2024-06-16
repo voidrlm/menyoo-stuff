@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<Vehicle menyoo_ver="1.5.0">
+<Vehicle menyoo_ver="1.8.1">
 	<ModelHash>0x3e3d1f59</ModelHash>
-	<InitialHandle>484117</InitialHandle>
+	<InitialHandle>458247</InitialHandle>
 	<VehicleProperties>
 		<Colours>
 			<Primary>37</Primary>
@@ -23,16 +23,16 @@
 			<LrXenonHeadlights>255</LrXenonHeadlights>
 		</Colours>
 		<Livery>-1</Livery>
-		<NumberPlateText> DIVO </NumberPlateText>
+		<NumberPlateText>  DIVO  </NumberPlateText>
 		<NumberPlateIndex>5</NumberPlateIndex>
 		<WheelType>12</WheelType>
 		<WheelsInvisible>false</WheelsInvisible>
 		<EngineSoundName></EngineSoundName>
 		<WindowTint>-1</WindowTint>
 		<BulletProofTyres>true</BulletProofTyres>
-		<DirtLevel>0.000796869281</DirtLevel>
+		<DirtLevel>0.0292423964</DirtLevel>
 		<PaintFade>0.298039228</PaintFade>
-		<RoofState>0</RoofState>
+		<RoofState>1</RoofState>
 		<SirenActive>false</SirenActive>
 		<EngineOn>true</EngineOn>
 		<EngineHealth>1000</EngineHealth>
@@ -98,7 +98,7 @@
 			<_45>-1,0</_45>
 			<_46>-1,0</_46>
 			<_47>-1,0</_47>
-			<_48>4,0</_48>
+			<_48>-1,0</_48>
 		</Mods>
 		<DoorsOpen>
 			<BackLeftDoor>false</BackLeftDoor>
