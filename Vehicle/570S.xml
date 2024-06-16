@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<Vehicle menyoo_ver="1.5.0">
+<Vehicle menyoo_ver="1.8.1">
 	<ModelHash>0xe33a477b</ModelHash>
-	<InitialHandle>387606</InitialHandle>
+	<InitialHandle>422150</InitialHandle>
 	<VehicleProperties>
 		<Colours>
-			<Primary>112</Primary>
-			<Secondary>112</Secondary>
-			<Pearl>0</Pearl>
-			<Rim>0</Rim>
+			<Primary>38</Primary>
+			<Secondary>38</Secondary>
+			<Pearl>18</Pearl>
+			<Rim>156</Rim>
 			<Mod1_a>6</Mod1_a>
 			<Mod1_b>-1</Mod1_b>
 			<Mod1_c>-1</Mod1_c>
@@ -23,19 +23,19 @@
 			<LrXenonHeadlights>0</LrXenonHeadlights>
 		</Colours>
 		<Livery>-1</Livery>
-		<NumberPlateText> 570S </NumberPlateText>
+		<NumberPlateText>  570S  </NumberPlateText>
 		<NumberPlateIndex>5</NumberPlateIndex>
 		<WheelType>12</WheelType>
 		<WheelsInvisible>false</WheelsInvisible>
 		<EngineSoundName></EngineSoundName>
 		<WindowTint>-1</WindowTint>
 		<BulletProofTyres>true</BulletProofTyres>
-		<DirtLevel>0.288827688</DirtLevel>
+		<DirtLevel>0.0711869076</DirtLevel>
 		<PaintFade>0.298039228</PaintFade>
-		<RoofState>0</RoofState>
+		<RoofState>1</RoofState>
 		<SirenActive>false</SirenActive>
 		<EngineOn>true</EngineOn>
-		<EngineHealth>1250</EngineHealth>
+		<EngineHealth>1000</EngineHealth>
 		<LightsOn>true</LightsOn>
 		<IsRadioLoud>0</IsRadioLoud>
 		<LockStatus>1</LockStatus>
@@ -93,12 +93,12 @@
 			<_40>-1,0</_40>
 			<_41>-1,0</_41>
 			<_42>-1,0</_42>
-			<_43>0,0</_43>
+			<_43>2,0</_43>
 			<_44>-1,0</_44>
 			<_45>-1,0</_45>
 			<_46>-1,0</_46>
 			<_47>-1,0</_47>
-			<_48>0,0</_48>
+			<_48>-1,0</_48>
 		</Mods>
 		<DoorsOpen>
 			<BackLeftDoor>false</BackLeftDoor>
